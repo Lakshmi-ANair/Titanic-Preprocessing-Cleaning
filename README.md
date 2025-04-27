@@ -4,7 +4,7 @@
 This repository focuses on cleaning and preprocessing the Titanic dataset (`titanic.csv`). The goal is to prepare the raw data into a format suitable for machine learning modeling by handling missing values, encoding categorical features, scaling numerical features, and managing outliers.
 
 ## Files Included
-*   `Titanic_Data_Cleaning_&_Preprocessing`: Colab notebook containing the Python code for all preprocessing steps.
+*   `Titanic_Data_Cleaning_&_Preprocessing`: Jupyter/Colab notebook containing the Python code for all preprocessing steps.
 *   `titanic.csv`: The raw dataset used for this task.
 
 ## Steps Performed
